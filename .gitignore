@@ -1,0 +1,16 @@
+.env
+*.env
+
+venv/
+ENV/
+env/
+venv.bak/
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+.idea/
+.vscode/
